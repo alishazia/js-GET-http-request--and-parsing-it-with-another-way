@@ -136,4 +136,4 @@ const xhr = new XMLHttpRequest();
     //  const newEl = document.querySelector('title').textContent;
    }
  } 
- xhr.send();
+ xhr.send(); 
